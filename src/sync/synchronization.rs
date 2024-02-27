@@ -18,7 +18,7 @@ use std::{collections::HashMap, error::Error};
 
 use std::{fs::File, io::Write, path::Path};
 
-pub const BOILR_TAG: &str = "boilr";
+pub const BOILR_TAG: &str = "RetroDECK";
 
 pub enum SyncProgress {
     NotStarted,
